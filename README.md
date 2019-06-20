@@ -1,1 +1,1 @@
-Sistemas feitos com Linguagem de programação Python.
+Sistemas feitos com Linguagem Python.

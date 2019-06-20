@@ -1,6 +1,6 @@
 def operacoes():
     n1 = float(input('Digite primeiro número: '))  # Recebe primeiro número.
-    s = str(input('Digite um dos sinais: + - x / '))  # Recebe Sinal.
+    s = str(input('Digite um dos sinais + - x / : '))  # Recebe Sinal.
     n2 = float(input('Digite segundo número: '))  # Recebe segundo número.
 
     if s == '+':  # Efetua operação de soma.
