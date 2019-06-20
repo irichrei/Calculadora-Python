@@ -1,2 +1,1 @@
-# Calculadora-Python
-Calculadora feita em Python, com sistema de reiniciar aplicação.
+Sistemas feitos com Linguagem de programação Python.
