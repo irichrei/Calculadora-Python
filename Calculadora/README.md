@@ -1,1 +1,1 @@
-Calculadora, com sistema de reiniciar aplicação.
+Calculadora com sistema de reiniciar aplicação.
